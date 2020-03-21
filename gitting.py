@@ -1,6 +1,13 @@
-<<<<<<< HEAD
+import random
+
+
 print('hello, Im gitty by Michal')
-=======
+
 def introduce():
 	print("Hello, I'm Gittie!")
->>>>>>> ac17242b4cb14af01c682fff9efc4d65af907a18
+
+
+joke = ['zart1', 'zart2', 'zart3', 'zart4', 'zart5', 'zart6', 'zart7']
+d1 = random.randint(0,6)
+dowcip = joke[d1]
+print(dowcip)
