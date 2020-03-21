@@ -12,3 +12,6 @@ def add(a, b):
 
 def shoud():
 	print("!%&#$!!!!")
+
+def shout():
+	print("SHOUT!")
